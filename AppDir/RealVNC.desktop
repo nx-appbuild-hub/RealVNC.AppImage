@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=RealVNC Viewer
+Comment=Connect to VNC server and display remote desktop
+Exec=AppRun
+Icon=realvnc
+Terminal=false
+Type=Application
+StartupWMClass=TigerVNC Viewer: Connection Details
+Categories=Network;RemoteAccess;
